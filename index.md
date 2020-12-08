@@ -41,6 +41,7 @@ Talia Salzberg Horowitz - talia.salzberghorowitz@flatironschool.com - [Booking L
 | Live Discussion - JavaScript Fundamentals | [Link](https://youtu.be/pctaaxmreHE)|[Code](https://repl.it/join/cbdppqlx-mkdoherty3)|
 | Live Discussion - Intro to the DOM | [Link](https://youtu.be/fZodUVw2uUk)|[Code]|
 
+### Older videos can be found [here](https://github.com/learn-co-curriculum/onl01-seng-pt-041320)
 
 ## Current Pairing Assignments 
 
