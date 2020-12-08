@@ -25,12 +25,12 @@ Talia Salzberg Horowitz - talia.salzberghorowitz@flatironschool.com - [Booking L
 | -------------------------------- | :--------: | -------------: |
 | **Mod 4 Week 6**                                  | |        |
 | Live Discussion - OO Toy Tale | [Link](https://youtu.be/Biz-dWT0ryM)|[Code](https://github.com/mkdoh3/oo_toy_tale)|
-| **Mod 4 Week 5**                                  | |        
+| **Mod 4 Week 5**                                  | |        |
 | Live Discussion - ES6 Deep Dive | [Link](https://youtu.be/YLwW31z_K_o)|[Code](https://repl.it/@mkdoherty3/DeafeningInconsequentialDevelopments)|
-| **Mod 4 Week 4**                                  | |        
+| **Mod 4 Week 4**                                  | |        |
 | Live Discussion - Rails API pt. 2 | [Link](https://youtu.be/9S2yE7VC2j8)|[Code]|
 | Live Discussion - Building a Rails API | [Link](https://youtu.be/kusDmz7NYd0)|[Code]|
-| **Mod 4 Week 3**                                  | |        
+| **Mod 4 Week 3**                                  | |        |
 | OOH - Review & More Fetch | [Link](https://youtu.be/ToHLIBlE4Ns)|[Code]|
 | Live Discussion - JavaScript Fetch | [Link](https://youtu.be/eXd79TUIUvg)|[Code]|
 | **Mod 4 Week 2**                                  | |               |
