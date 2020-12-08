@@ -23,7 +23,7 @@ Talia Salzberg Horowitz - talia.salzberghorowitz@flatironschool.com - [Booking L
 ### Study Group Videos and Code - To be added as they become available
 |Lesson|Video|Code/Examples|
 | -------------------------------- | :--------: | -------------: |
-| **Mod 4 Week 6**                                  | |        
+| **Mod 4 Week 6**                                  | |        |
 | Live Discussion - OO Toy Tale | [Link](https://youtu.be/Biz-dWT0ryM)|[Code](https://github.com/mkdoh3/oo_toy_tale)|
 | **Mod 4 Week 5**                                  | |        
 | Live Discussion - ES6 Deep Dive | [Link](https://youtu.be/YLwW31z_K_o)|[Code](https://repl.it/@mkdoherty3/DeafeningInconsequentialDevelopments)|
@@ -111,20 +111,20 @@ Talia Salzberg Horowitz - talia.salzberghorowitz@flatironschool.com - [Booking L
 
 | Pair 1     |   Pair 2   | Pair 3     |
 | ---------- | :--------: | ---------- |
-|Steve Womble|Jonah Mallard||
-|Anika Christopher|Jonathan Baker||
-|Paul Beckwith|Shishiri Nganyone||
-|Philippe Timothe|Jordan Nguyen||
-|Angela Appiah|Curtis pachtinger||
-|Tammy Lam|Dwight Nodolf||
-|Nicole Lucien|Mike Cooper||
-|Dan Ste. Marie Jr.|Ifeoluwa Akinremi-Wade||
-|Andrew Alteri|Cafer Orkun Saglam||
-|Romario Gustave|Patricia Cordero||
-|Patrick Harrison|Vedran Sehovic||
-|Travis Gandy|George Blackmore||
-|Marcus Lau|Maurice Fiorani||
+|Tammy Lam|Ifeoluwa Akinremi-Wade||
+|Paul Beckwith|Dan Ste. Marie Jr.||
+|Anika Christopher|Curtis pachtinger||
+|Jessica Gamez|Mike Cooper||
+|Patricia Cordero|Marcus Lau||
 |Joseph Romero|Mei Dan Zhu||
-|Christine Zosche|Daisuke Hashimoto||
-|Jessica Gamez|Asif Kamal||                                                                                                             
+|Philippe Timothe|Jonah Mallard||
+|Romario Gustave|Angela Appiah||
+|Melissa Christman|Nicole Lucien||
+|Christine Zosche|Cafer Orkun Saglam||
+|Asif Kamal|Jonathan Baker||
+|Dwight Nodolf|Vedran Sehovic||
+|Sehrish Balouch|Andrew Alteri||
+|Shishiri Nganyone|Patrick Harrison||
+|George Blackmore|Jordan Nguyen||
+|Jonathan Ghandforoush|Daisuke Hashimoto||                                                                                                           
 
