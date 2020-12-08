@@ -21,8 +21,9 @@ Talia Salzberg Horowitz - talia.salzberghorowitz@flatironschool.com - [Booking L
 
 
 ### Study Group Videos and Code - To be added as they become available
+
 |Lesson|Video|Code/Examples|
-| -------------------------------- | :--------: | -------------: |
+| -------------------------------- | -------- | ------------- |
 | **Mod 4 Week 6**                                  | |        |
 | Live Discussion - OO Toy Tale | [Link](https://youtu.be/Biz-dWT0ryM)|[Code](https://github.com/mkdoh3/oo_toy_tale)|
 | **Mod 4 Week 5**                                  | |        |
