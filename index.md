@@ -9,6 +9,7 @@ Talia Salzberg Horowitz - talia.salzberghorowitz@flatironschool.com - [Booking L
 * JS Assessment deadline is Wednesday, December 23rd
 * After submitting your repo, video, and blog links - book your assessment [here](https://go.oncehub.com/StructuredProgramJavascriptProjectReviews)
 * Please avoid booking an assessment with myself!
+* There is a section at the bottom of the JS Project page titled, 'What to Expect in Your Project Review'. Use it to focus your studying & practice!
 
 ### Mod 5 Week 1
 #### This week's focus: Node, Intro to React & Props
